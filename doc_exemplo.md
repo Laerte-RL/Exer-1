@@ -1,4 +1,4 @@
-# **App-Family**
+# **App-Família**
  A ideia foi criar um código para a seleção das famílias.  A  _**var novaFamilia,**_ receberá uma nova família a cada sorteio.
 
 ```
